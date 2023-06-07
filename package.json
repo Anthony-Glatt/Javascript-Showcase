@@ -1,0 +1,14 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "description": "A showcase of fundamental front end web development",
+  "script": {
+
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  }
+}
