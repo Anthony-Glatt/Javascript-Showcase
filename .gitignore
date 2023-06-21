@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# More info https://git-scm.com/docs/gitignore
 
 #deps
 .npmrc
 node_modules
-package.lock.json
 
 #debug
 *.log

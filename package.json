@@ -2,13 +2,23 @@
   "name": "my-awesome-package",
   "version": "1.0.0",
   "description": "A showcase of fundamental front end web development",
-  "script": {
-
+  "script": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Glatt/Javascript-Showcase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Glatt/Javascript-Showcase/issues"
+  },
+  "homepage": "https://github.com/Anthony-Glatt/Javascript-Showcase#readme",
   "dependencies": {
-
-  },
-  "devDependencies": {
-    
+    "express": "^4.18.2"
   }
 }
